@@ -20,7 +20,7 @@ Built using:
 * Flutter
 ___
 Some snaps from the app:-<br>
-[<img src="https://img.youtube.com/vi/oEQ_hthYJIQ/maxresdefault.jpg" width="50%">](https://youtu.be/oEQ_hthYJIQ)
+[![Video from the app](https://img.youtube.com/vi/oEQ_hthYJIQ/maxresdefault.jpg)](https://youtu.be/oEQ_hthYJIQ)
 ![Settings](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594362012/readme%20images/default%20counter%20and%20dice%20app%20stateful/WhatsApp_Image_2020-07-10_at_11.46.34_AM_3_x4uxur.jpg)
 ![Settings](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594362014/readme%20images/default%20counter%20and%20dice%20app%20stateful/WhatsApp_Image_2020-07-10_at_11.46.34_AM_2_sibjl0.jpg)
 ![Settings](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1594362083/readme%20images/default%20counter%20and%20dice%20app%20stateful/WhatsApp_Image_2020-07-10_at_11.51.03_AM_cxg780.jpg)
